@@ -1,0 +1,6 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import url(reset.css);
+@import url(base.css);
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&display=swap');
